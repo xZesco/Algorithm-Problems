@@ -22,11 +22,11 @@ The Weighted Interval Scheduling Problem deals with scheduling jobs with start a
 ## Repository Structure
 
 
-The repository is structured into separate directories for each problem. Each directory contains a `README.md` file describing the problem, a solution file (`solution.py`), and potentially other relevant files.
+The repository is structured into separate directories for each problem. Each directory contains a `README.md` file describing the problem, a solution file (`Solution.py`), and potentially other relevant files.
 
 ## Usage
 
-Each problem directory contains a solution file (`solution.py`) with the implementation of the algorithm to solve the respective problem. You can use these solutions as a reference or integrate them into your projects.
+Each problem directory contains a solution file (`Solution.py`) with the implementation of the algorithm to solve the respective problem. You can use these solutions as a reference or integrate them into your projects.
 
 ## Contributions
 
